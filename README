@@ -1,0 +1,8 @@
+利用MATLAB完成复合材料力学的计算
+qiangdu.m用于计算层合板的各个参数，比如Q、A、B、D等等
+limit.m和limit2.m分别使用蔡-希尔强度准则与蔡-吴强度准则进行层合板极限强度的预测
+
+the english part is the translate of chinese
+Using MATLAB to complete the calculation of composite mechanics         
+Qiangdu. M is used to calculate the parameters of laminated plates, such as Q, a, B, D, etc          
+Limit. M and limit 2. M are used to predict the ultimate strength of laminated plates by using Tsai Hill strength criterion and Tsai Wu strength criterion respectively
